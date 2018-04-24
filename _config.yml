@@ -12,14 +12,14 @@ github_repo: "https://github.com/DonVNO/donvno.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Make perfect."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Shiba1.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 weibo_username:   我的名字叫蛋哥  
-zhihu_username:     我就想改个名
+zhihu_username:     
 github_username:    DonVNO
 #facebook_username:  
 #jianshu_username:   
