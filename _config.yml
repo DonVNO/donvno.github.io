@@ -18,8 +18,8 @@ sidebar-avatar: /img/Shiba1.JPG      # use absolute URL, seeing it's used in bot
 
 # SNS settings
 RSS: false
-weibo_username:   fandanyang  
-zhihu_username:   fandanyang  
+#weibo_username:   fandanyang  
+#zhihu_username:   fandanyang  
 github_username:    DonVNO
 facebook_username:  fandanyang
 #jianshu_username:   
