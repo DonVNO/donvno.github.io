@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      Hello World
+title:      Hello World！
 subtitle:   我的第一篇博客
 date:       2018-4-26
 author:     VNO
 header-img: img/post-bg-desk.jpg
-catalog: false
+catalog: true
 tags:
-    - journal
+    - 生活
 ---
 其实这个博客整完已经有段时间了，但是一直没时间静下心来写点东西。第一篇Blog总是有点特别的感觉，也不知道写些什么。就说说建这个博客的过程吧。  
 想当程序猿的我误打误撞来到Github，我不是很清楚究竟是干什么的，只知道上面有许多牛逼的程序猿和他们的代码。虽然说是全英文的还有许多我看不太懂的代码，但想想如果自己真的想当一个程序猿，捣鼓这玩意肯定是必经之路啊，那就硬着头皮学啊。要知道甚至还有不是程序员的妹子（斜眼笑）拿Github写小说玩呢。所以说，Github也没有那么难学嘛。  
