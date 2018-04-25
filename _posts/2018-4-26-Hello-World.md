@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      第一篇
-subtitle:   Hello World!
+title:      Hello World
+subtitle:   我的第一篇博客
 date:       2018-4-26
 author:     VNO
 header-img: img/post-bg-desk.jpg
